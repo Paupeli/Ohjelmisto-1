@@ -2,7 +2,6 @@ lot = 13.3
 pound = 13.3*32
 talent= 13.3*32*20
 
-
 lot_str = float(input("Give lots: ")) * lot
 pound_str = float(input("Give pounds: ")) * pound
 talent_str = float(input("Give talents: ")) * talent
